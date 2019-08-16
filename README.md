@@ -1,1 +1,1 @@
-# svn-repo
+# Multi-module repository
